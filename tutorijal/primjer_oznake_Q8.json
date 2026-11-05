@@ -1,0 +1,22 @@
+{
+  "naslov": "Gdje šta piše na modulu",
+  "boxes": [
+    {"n": 1, "box": [785, 430, 895, 875],   "boja": "zuta",       "opis": "Model ploče: Q8H35B5U1-40x20"},
+    {"n": 2, "box": [765, 1765, 875, 2015], "boja": "crvena",     "opis": "Naljepnica: IC driver + dekoder"},
+    {"n": 3, "box": [598, 1775, 665, 1995], "boja": "plava",      "opis": "Q系列E = Qiangli Q serija E"},
+    {"n": 4, "box": [555, 265, 865, 425],   "boja": "zelena",     "opis": "JIN = ulaz, kabl sa kartice"},
+    {"n": 5, "box": [595, 2115, 835, 2265], "boja": "zelena",     "opis": "HUB75 = izlaz za sljedeći modul"},
+    {"n": 6, "box": [325, 640, 435, 725],   "boja": "ljubicasta", "opis": "veći čipovi (24 nožice) = driveri"},
+    {"n": 7, "box": [640, 1440, 805, 1645], "boja": "siva",       "opis": "VCC / GND = napajanje 5 V"}
+  ],
+  "insets": [
+    {"naslov": "2  Naljepnica (uvećano, okrenuto)", "box": [760, 1765, 880, 2015], "rotate": -90, "zoom": 3, "boja": "crvena"},
+    {"naslov": "1  Natpis na PCB-u (model ploče)", "box": [785, 430, 895, 875], "rotate": 90, "zoom": 1.4, "boja": "zuta"}
+  ],
+  "ime_fajla": {
+    "model":   ["Q8H35", "Q8H35B5U1-40x20"],
+    "driver":  ["16208", "SM16208SJ"],
+    "dekoder": ["5158",  "RUL5158C"],
+    "revizija": "A5V1"
+  }
+}

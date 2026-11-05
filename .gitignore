@@ -1,0 +1,7 @@
+# Fabricki konfiguracioni fajlovi pripadaju proizvodjacu i NovaStaru
+*.rcfgx
+*.rcfg
+*.oscfg
+*.scr
+__pycache__/
+*.pyc
